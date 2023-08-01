@@ -2,8 +2,8 @@
 Use of DisInt ?
 
     DisInt is a homemade tool for Osint 
-    You can by just print the discord's id  found a lot of information about an account, like his avatar, banner link to make a search by image.
-    You also got more information. 
+    You can by just print the discord's id  found a lot of information about an account, 
+    like his avatar, banner link to make a search by image. You also got more information. 
 
 What mean DisInt ?
 
@@ -12,8 +12,8 @@ What mean DisInt ?
 Usage & setup
 
     on line 7, to the value "token".
-    in the "" after the =, you must enter the token of a discord account that will be able to make requests.
-    I advise you to create a useless account and use its token to make requests with the API
+    in the "" after the =, you must enter the token of a discord account that will be able to make 
+    requests. I advise you to create a useless account and use its token to make requests with the API
 
 
 
