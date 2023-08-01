@@ -57,7 +57,6 @@ if response.status_code == 200:
     with open(f"output/{user_data['username']}" +'.txt', "a+") as discord_output:
         discord_output.write(str(user_data))
         discord_output.write("\n\n")
-        discord_output.write("This tool is a preview of the big tool who is coming soon :) ENJOY ! \n")
         discord_output.write("        Follow me on : \n")
         discord_output.write("Twitter - https://twitter.com/0xl0tsow \n")
         discord_output.write("Github - https://github.com/0xL0tsow \n")                                      
