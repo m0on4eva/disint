@@ -1,9 +1,9 @@
 # DisInt
 Use of DisInt ?
 
-    DisInt is a homemade tool for Osint 
-    You can by just print the discord's id  found a lot of information about an account, 
-    like his avatar, banner link to make a search by image. You also got more information. 
+    DisInt is an in-house tool for Osint
+    You can simply by entering the discord id find a lot of information about an account,
+    like his avatar, banner link to search by image. You can also get more information.
 
 What mean DisInt ?
 
