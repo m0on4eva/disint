@@ -1,1 +1,7 @@
+{'id': '318312854816161792', 'username': 'DraftBot', 'avatar': 'f1d4dc93441273f3f8985a07e0bad164', 'discriminator': '0535', 'public_flags': 65536, 'flags': 65536, 'bot': True, 'banner': None, 'accent_color': None, 'global_name': None, 'avatar_decoration': None, 'banner_color': None}
 
+This tool is a preview of the big tool who is coming soon :) ENJOY ! 
+        Follow me on : 
+Twitter - https://twitter.com/0xl0tsow 
+Github - https://github.com/0xL0tsow 
+Telegram - https://t.me/L0tsow 
