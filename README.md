@@ -7,7 +7,7 @@ Use of DisInt ?
 
 What mean DisInt ?
 
-    DisInt is the contraction of "Discord"and "Osint"
+    DisInt is the contraction of "Discord" and "Osint"
 
 Usage & setup
 
@@ -17,5 +17,5 @@ Usage & setup
 
 
 
-<img src="https://cdn.discordapp.com/attachments/1129019725146505339/1135995292928446596/pfp5.png" width=120 style="margin-top: 10px; filter: drop-shadow(0 0 0.75rem white);">
+<img src="https://cdn.discordapp.com/attachments/1129019725146505339/1135995292928446596/pfp5.png" width=120 style="margin-top: 10px; ">
 <a style="position : absolute; margin-top : 40px; margin-left : 20px; font-size : 24px "> Made by L0tsow</a>
