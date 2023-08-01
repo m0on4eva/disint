@@ -19,3 +19,5 @@ Usage & setup
 
 <img src="https://cdn.discordapp.com/attachments/1129019725146505339/1135995292928446596/pfp5.png" width=120 style="margin-top: 10px; ">
 <a style="position : absolute; margin-top : 40px; margin-left : 20px; font-size : 24px "> Made by L0tsow</a>
+
+Thanks to Sale-Gosse & NotFloppa for help !
