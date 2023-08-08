@@ -11,6 +11,10 @@ What mean DisInt ?
 
 Usage & setup
 
+    $ git clone https://github.com/l0tsow/disint
+    $ cd disint/
+    $ python3 main.py
+    
     on line 7, to the value "token".
     in the "" after the =, you must enter the token of a discord account that will be able to make 
     requests. I advise you to create a useless account and use its token to make requests with the API
