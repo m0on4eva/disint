@@ -17,7 +17,7 @@ def lotsow():
 | |_| | \__ \| || | | | |_ 
 |____/|_|___/___|_| |_|\__|   
     """)
-    print(Fore.LIGHTRED_EX + "Github : 0xL0tsow ")
+    print(Fore.LIGHTRED_EX + "Github : L0tsow ")
     print(Fore.LIGHTBLUE_EX + "         Twitter : 0xL0tsow")
     print(Fore.LIGHTGREEN_EX + "                    Telegram : L0tsow")
     print(Fore.LIGHTYELLOW_EX + "                               Discord : 0xL0tsow")
