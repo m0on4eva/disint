@@ -7,7 +7,7 @@ import os
 token = "token value of a Discord account (not a bot)"
 
 if token == "token value of a Discord account (not a bot)":
-   peint("change the token value")
+   print("change the token value")
 
 
 def lotsow():
