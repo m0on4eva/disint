@@ -6,8 +6,7 @@ import os
 
 token = "token value of a Discord account (not a bot)"
 
-if token == "token value of a Discord account (not a bot)":
-   print("change the token value")
+
 
 
 def lotsow():
@@ -27,7 +26,8 @@ def lotsow():
     print(Fore.WHITE + "-" * 50)
 
 lotsow()
-
+if token == "token value of a Discord account (not a bot)":
+   print("change the token value")
 id_ds = input("Enter victim's discord id : ")
 
 url = "http://canary.discord.com/api/v9/users/" + id_ds
