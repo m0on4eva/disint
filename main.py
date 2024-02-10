@@ -19,10 +19,7 @@ def lotsow():
 | |_| | \__ \| || | | | |_ 
 |____/|_|___/___|_| |_|\__|   
     """)
-    print(Fore.LIGHTRED_EX + "Github : L0tsow ")
-    print(Fore.LIGHTBLUE_EX + "         Twitter : 0xL0tsow")
-    print(Fore.LIGHTGREEN_EX + "                    Telegram : L0tsow")
-    print(Fore.LIGHTYELLOW_EX + "                               Discord : 0xL0tsow")
+    print(Fore.LIGHTRED_EX + "            Github : catdotssh ")
     print(Fore.WHITE + "-" * 50)
 
 lotsow()
@@ -57,11 +54,6 @@ if response.status_code == 200:
     print("-" * 50)
 
     with open(f"output/{user_data['username']}" +'.txt', "a+") as discord_output:
-        discord_output.write(str(user_data))
-        discord_output.write("\n\n")
-        discord_output.write("        Follow me on : \n")
-        discord_output.write("Twitter - https://twitter.com/0xl0tsow \n")
-        discord_output.write("Github - https://github.com/0xL0tsow \n")                                      
-        discord_output.write("Telegram - https://t.me/L0tsow \n")        
+        discord_output.write(str(user_data)) 
         discord_output.close()
 exit()
