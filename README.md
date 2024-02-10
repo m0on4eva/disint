@@ -11,7 +11,7 @@ What mean DisInt ?
 
 Usage & setup
 
-    $ git clone https://github.com/l0tsow/disint
+    $ git clone https://github.com/catdotsh/disint
     $ cd disint/
     $ python3 main.py
 
@@ -22,7 +22,4 @@ Usage & setup
 
 
 
-<img src="https://avatars.githubusercontent.com/u/85215760?v=4" width=120 style="margin-top: 10px; ">
-<a style="position : absolute; margin-top : 40px; margin-left : 20px; font-size : 24px "> Made by L0tsow</a>
-
-Thanks to Sale-Gosse & NotFloppa for help !
+<a style="position : absolute; margin-top : 40px; margin-left : 20px; font-size : 24px "> Made by Cat.Sh</a>
